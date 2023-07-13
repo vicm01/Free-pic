@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126411731638",
+    "project_id": "free-pic-f048f",
+    "storage_bucket": "free-pic-f048f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126411731638:android:2c469691db3e0bf27cac17",
+        "android_client_info": {
+          "package_name": "com.example.freepic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126411731638-n8lc50a13d7c0h3a9csgutjk1bmnqa4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDrRgUrZdjwxC2tgs0W0NI3fgb0-HI_vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126411731638-n8lc50a13d7c0h3a9csgutjk1bmnqa4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

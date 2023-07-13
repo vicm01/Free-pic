@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/coast"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/coast"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FreePic"
+        tools:targetApi="31">
+        <activity
+            android:name=".CoastSevenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CoastFiveActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CoastFourActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CoastThreeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CoastTwoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CoastOneActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CitiesSevenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CitiesFiveActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CitiesFourActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CitiesThreeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CitiesTwoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CitiesOneActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FoodSevenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FoodFiveActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FoodFourActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FoodThreeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FoodTwoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FoodOneActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WallpaperSevenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WallpaperFiveActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WallpaperFourActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WallpaperThreeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WallpaperTwoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WallpaperOneActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NatureSevenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NatureFiveActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NatureFourActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NatureThreeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NatureTwoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NatureOneActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CarSevenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CarFiveActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CarFourActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CarThreeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CarTwoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CarOneActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NatureActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CoastActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CitiesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FoodActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WallpaperActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
